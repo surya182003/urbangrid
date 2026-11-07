@@ -1,0 +1,7 @@
+streamlit>=1.67
+pandas>=2.2
+requests>=2.31
+numpy>=1.26
+pydeck>=0.9
+altair>=5.4
+fpdf2>=2.8

@@ -1,0 +1,14 @@
+# Local virtual environment and Python caches (never commit these)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit secrets (API keys etc.) must never be committed
+.streamlit/secrets.toml
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
