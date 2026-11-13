@@ -12,7 +12,7 @@
 [![Open Data](https://img.shields.io/badge/Data-Irish%20Open%20Data-22c55e?style=for-the-badge)](#-data-sources)
 
 <!-- Replace the link below with your Streamlit Community Cloud URL -->
-**[▶ Live demo](https://share.streamlit.io/)** · [Features](#-features) · [How it works](#-how-it-works) · [Quick start](#-quick-start) · [Data sources](#-data-sources)
+**[▶ Live demo](https://urbangrid.streamlit.app/)** · [Features](#-features) · [How it works](#-how-it-works) · [Quick start](#-quick-start) · [Data sources](#-data-sources)
 
 <br>
 
